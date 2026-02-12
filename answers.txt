@@ -5,6 +5,7 @@ Answer: Security, and shareability
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Psychology
+
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: merging maintains history timeline, rebase creates a linear history
